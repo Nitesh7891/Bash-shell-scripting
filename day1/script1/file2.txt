@@ -1,0 +1,4 @@
+echo "I am Nitesh"
+I am 22 years old.
+I am a full stack developer.
+I am a full stack developer.
